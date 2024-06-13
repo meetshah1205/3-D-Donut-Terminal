@@ -65,15 +65,16 @@ Y(u, v, A, B) = (cos(A) * (R1 + R2 * cos(v)) * sin(u) - sin(A) * R2 * sin(v)) / 
 
 
 
-# installing and Running
+# Installing and Running
 ## Installing
 To get this to run on ypour machine do these:
 ### Prerequisites
-GCC:
+GCC:<br>
 Linux or MacOS: <br>
-If you are any distribution of Linux or MacOS, you can skip this step.
+If you are any distribution of Linux or MacOS, you can skip this step.<br>
+Windows:<br>
 Download and install  ```GCC``` by following <a href="https://code.visualstudio.com/docs/cpp/config-mingw">this page.</a>
-
+<br>
 
 Check your installation like this:<br>
 1. Open your terminal (Command Prompt or CMD on Windows). <br>
@@ -83,10 +84,10 @@ gcc --version
 ```
 <br>
 3. Install GIT: <br>
-  Follow this page according to your operationg system. <br>
+  Follow <a href="https://www.git-scm.com/downloads">this page</a> according to your operationg system. <br>
 
 ## Installation
-1. Clone the repository
+1. Clone the repository:<br>
      1.1. Open a terminal in a folder. <br>
      1.2. Run this command: <br>
 ```sh
@@ -106,7 +107,7 @@ cd Why-You-Need-Maths-For-Programming
 ## Compilition and Execution
 
 1. Compiling: <br>
-  1.1. Open terminal in the project folder.
+  1.1. Open terminal in the project folder. <br>
   1.2. Check if you are in the correct folder: <br>
     Run this on Windows:
 ```sh
