@@ -146,4 +146,4 @@ Run this on Linux/MacOS:
 
 
 Credit for code:
-<a href="https://www.a1k0n.net/2011/07/20/donut-math.html">This a1k0n.net page </a>.
+<a href="https://www.a1k0n.net/2011/07/20/donut-math.html" target="_blank">This a1k0n.net page </a>.
